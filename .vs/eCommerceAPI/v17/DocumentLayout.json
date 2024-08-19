@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto-SmartTI\\eCommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Program.cs",
+              "RelativeToolTip": "eCommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:59:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Usuario.cs",
+              "RelativeToolTip": "biblioteca\\Usuario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:43:02.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

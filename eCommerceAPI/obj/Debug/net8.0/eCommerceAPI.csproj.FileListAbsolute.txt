@@ -1,0 +1,7 @@
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.csproj.AssemblyReference.cache
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.AssemblyInfo.cs
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.MvcApplicationPartsAssemblyInfo.cache
