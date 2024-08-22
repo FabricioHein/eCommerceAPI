@@ -2,6 +2,7 @@ global using eCommerce.Models;
 using eCommerceAPI.Database;
 using eCommerceAPI.Interface;
 using eCommerceAPI.Repositories;
+using eCommerceAPI.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,9 @@ builder.Services.AddSwaggerGen();
 
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<IPedidoRepository, PedidoRepository>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+
 
 builder.Services.AddDbContext<eCommerceContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));

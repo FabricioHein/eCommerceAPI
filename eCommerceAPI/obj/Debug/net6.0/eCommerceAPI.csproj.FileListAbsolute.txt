@@ -75,6 +75,7 @@ C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\eCommerceAPI.deps.
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\eCommerceAPI.runtimeconfig.json
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\eCommerceAPI.dll
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\eCommerceAPI.pdb
+C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\BCrypt.Net-Next.dll
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\Humanizer.dll
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Projeto-SmartTI\eCommerceAPI\eCommerceAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll

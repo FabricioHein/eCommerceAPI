@@ -21,6 +21,10 @@ namespace eCommerceAPI.Repositories
         {
             return _context.Usuarios.Find(id);
         }
+        public Usuario GetUserByEmail(string email)
+        {
+            return _context.Usuarios.FirstOrDefault(u => u.Email == email);
+        }
 
         public void Add(Usuario usuario)
         {
@@ -43,5 +47,7 @@ namespace eCommerceAPI.Repositories
                 _context.SaveChanges();
             }
         }
+
+      
     }
 }

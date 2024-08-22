@@ -6,6 +6,8 @@ namespace eCommerce.Models
     [Table("usuario")]
     public class Usuario
     {
+        public string email;
+
         public int Id { get; set; }
 
         [MaxLength(100)]
