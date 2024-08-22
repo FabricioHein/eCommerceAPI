@@ -12,5 +12,10 @@ namespace eCommerceAPI.Database
         public DbSet<Departamento> Departamentos { get; set; }
         public DbSet<EnderecoEntrega> EnderecoEntregas { get; set; }
 
+        public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<ItemPedido> ItensPedido { get; set; }
+
     }
 }

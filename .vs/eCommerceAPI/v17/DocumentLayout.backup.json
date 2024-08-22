@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Projeto-SmartTI\\eCommerceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\migrations\\20240817004316_initteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\migrations\\20240817004316_initteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\projeto-smartti\\ecommerceapi\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D210868-E4B5-4F87-B731-3540E0F4A3A6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|c:\\projeto-smartti\\ecommerceapi\\biblioteca\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24421405-423C-4D07-B6F0-408AA880FB62}|biblioteca\\eCommerce.Models.csproj|solutionrelative:biblioteca\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "eCommerceContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Migrations\\eCommerceContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "eCommerceAPI\\Migrations\\eCommerceContextModelSnapshot.cs",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Migrations\\eCommerceContextModelSnapshot.cs",
-              "RelativeToolTip": "eCommerceAPI\\Migrations\\eCommerceContextModelSnapshot.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAAAM8AAAAJAAAAAAAAAA==",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "eCommerceAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "eCommerceAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:45:42.475Z",
+              "WhenOpened": "2024-08-22T00:53:29.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240817004316_InitTeste.cs",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Migrations\\20240817004316_InitTeste.cs",
-              "RelativeDocumentMoniker": "eCommerceAPI\\Migrations\\20240817004316_InitTeste.cs",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Migrations\\20240817004316_InitTeste.cs",
-              "RelativeToolTip": "eCommerceAPI\\Migrations\\20240817004316_InitTeste.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:43:17.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "eCommerceAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\appsettings.Development.json",
-              "RelativeToolTip": "eCommerceAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T00:42:18.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "eCommerceAPI\\appsettings.json",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\appsettings.json",
-              "RelativeToolTip": "eCommerceAPI\\appsettings.json",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Categoria.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Categoria.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Categoria.cs",
+              "RelativeToolTip": "biblioteca\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T00:42:15.862Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:53:23.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "eCommerceContext.cs",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Database\\eCommerceContext.cs",
-              "RelativeDocumentMoniker": "eCommerceAPI\\Database\\eCommerceContext.cs",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Database\\eCommerceContext.cs",
-              "RelativeToolTip": "eCommerceAPI\\Database\\eCommerceContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Contato.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Contato.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Contato.cs",
+              "RelativeToolTip": "biblioteca\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:38:44.512Z",
+              "WhenOpened": "2024-08-22T00:53:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "biblioteca\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\EnderecoEntrega.cs",
+              "RelativeToolTip": "biblioteca\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:53:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Departamento.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Departamento.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Departamento.cs",
+              "RelativeToolTip": "biblioteca\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:53:19.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "eCommerceAPI",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
-              "RelativeDocumentMoniker": "eCommerceAPI\\eCommerceAPI.csproj",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
-              "RelativeToolTip": "eCommerceAPI\\eCommerceAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-17T00:32:11.476Z",
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Pedido.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Pedido.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Pedido.cs",
+              "RelativeToolTip": "biblioteca\\Pedido.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:40:15.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Program.cs",
-              "RelativeDocumentMoniker": "eCommerceAPI\\Program.cs",
-              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\eCommerceAPI\\Program.cs",
-              "RelativeToolTip": "eCommerceAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Usuario.cs",
+              "RelativeDocumentMoniker": "biblioteca\\Usuario.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\eCommerceAPI\\biblioteca\\Usuario.cs",
+              "RelativeToolTip": "biblioteca\\Usuario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T00:26:02.932Z",
+              "WhenOpened": "2024-08-22T00:38:54.561Z",
               "EditorCaption": ""
             }
           ]

@@ -1,36 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace eCommerce.Models
 {
+    [Table("usuario")]
     public class Usuario
     {
-
         public int Id { get; set; }
-        public string Nome { get; set; } = null!;    
+
+        [MaxLength(100)]
+        public string Nome { get; set; } = null!;
+
+        [MaxLength(100)]
         public string Email { get; set; } = null!;
 
+        [MaxLength(20)]
         public string? Sexo { get; set; }
+
+        [MaxLength(20)]
         public string? RG { get; set; }
+
+        [Required]
         public string CPF { get; set; } = null!;
 
+        [MaxLength(20)]
         public string? Situacao { get; set; }
-        public string? NomeMae { get; set; }
 
-        public DateTimeOffset?  DataCadastro { get; set; }
+        [Required]
+        [MaxLength(100)]
+        public string Password { get; set; } = null!;
 
-        //Usuario.contato
+        public DateTimeOffset? DataCadastro { get; set; }
+
+        [MaxLength(20)]
+        public string? Telefone { get; set; }
+
         public Contato? Contato { get; set; }
 
-        //Usuario.EnderecoEntrega[0]
-        public ICollection<EnderecoEntrega>? EnderecoEntrega {  get; set; }
+        public ICollection<EnderecoEntrega>? EnderecoEntrega { get; set; }
+
         public ICollection<Departamento>? Departamentos { get; set; }
-
-
-
+        public ICollection<Pedido>? Pedidos { get; set; }
 
     }
 }

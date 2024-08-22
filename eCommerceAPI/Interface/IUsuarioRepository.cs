@@ -1,13 +1,11 @@
-﻿using eCommerce.Models;
-
-namespace eCommerceAPI.Interface
+﻿namespace eCommerceAPI.Interface
 {
     public interface IUsuarioRepository
     {
         List<Usuario> Get();
         Usuario Get(int id);
-        void add(Usuario usuario);
-        void update(Usuario usuario);
-        void delete(int id);
+        void Add(Usuario usuario);
+        void Update(Usuario usuario);
+        void Delete(int id);
     }
 }

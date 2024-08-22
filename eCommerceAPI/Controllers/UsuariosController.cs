@@ -1,5 +1,4 @@
-﻿using eCommerce.Models;
-using eCommerceAPI.Interface;
+﻿using eCommerceAPI.Interface;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -24,10 +23,11 @@ namespace eCommerceAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult Get(int id) { 
+        public ActionResult Get(int id)
+        {
             var findFistUsuario = _repository.Get(id);
 
-            if(findFistUsuario == null)
+            if (findFistUsuario == null)
             {
                 return NotFound("Não Encontrado!");
 
@@ -36,21 +36,22 @@ namespace eCommerceAPI.Controllers
             return Ok(findFistUsuario);
         }
         [HttpPost]
-        public ActionResult Add([FromBody] Usuario usuario) { 
-            _repository.add(usuario);
-            return Ok(usuario);           
+        public ActionResult Add([FromBody] Usuario usuario)
+        {
+            _repository.Add(usuario);
+            return Ok(usuario);
         }
         [HttpPut("{id}")]
-        public IActionResult Update([FromBody] Usuario usuario) 
+        public IActionResult Update([FromBody] Usuario usuario)
         {
-            _repository.update(usuario);
+            _repository.Update(usuario);
             return Ok(usuario);
         }
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id) 
+        public IActionResult Delete(int id)
         {
-            _repository.delete(id);
-            return Ok("Registro Deletado!");        
+            _repository.Delete(id);
+            return Ok("Registro Deletado!");
         }
 
 

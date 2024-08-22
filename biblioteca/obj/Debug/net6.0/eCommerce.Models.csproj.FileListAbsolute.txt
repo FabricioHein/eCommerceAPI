@@ -9,13 +9,14 @@ C:\Users\fabri\source\repos\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.M
 C:\Users\fabri\source\repos\eCommerceAPI\biblioteca\obj\Debug\net6.0\refint\eCommerce.Models.dll
 C:\Users\fabri\source\repos\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.pdb
 C:\Users\fabri\source\repos\eCommerceAPI\biblioteca\obj\Debug\net6.0\ref\eCommerce.Models.dll
-C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.deps.json
-C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.dll
-C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.pdb
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.AssemblyInfoInputs.cache
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.AssemblyInfo.cs
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.sourcelink.json
+C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.deps.json
+C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.dll
+C:\Projeto-SmartTI\eCommerceAPI\biblioteca\bin\Debug\net6.0\eCommerce.Models.pdb
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.dll
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\refint\eCommerce.Models.dll
 C:\Projeto-SmartTI\eCommerceAPI\biblioteca\obj\Debug\net6.0\eCommerce.Models.pdb
